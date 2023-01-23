@@ -23,7 +23,7 @@ The objective of this project is to introduce students to the basics of modern j
 
 ## Author
 
-* **Braide Jesse Obelem** - [GitHub Profile](https://github.com/yourusername)
+* **Braide Jesse Obelem** - [GitHub Profile](https://github.com/Obelem)
 
 ## Additional Information
 - Please read the instructions and comments in the code and the project's Wiki carefully. 
