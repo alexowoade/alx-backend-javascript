@@ -126,3 +126,7 @@ Resources
 MDN - JavaScript Promises
 JavaScript Promises: an Introduction
 [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global
+
+## Author
+
+* **Braide Jesse Obelem** - [GitHub Profile](https://github.com/Obelem)
