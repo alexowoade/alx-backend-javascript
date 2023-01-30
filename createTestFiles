@@ -1,0 +1,18 @@
+#!/usr/bin/bash
+touch 0-main.js
+touch 1-main.js
+touch 2-main.js
+touch 3-main.js
+touch 4-main.js
+touch 5-main.js
+touch 6-main.js
+touch 7-main.js
+touch 8-main.js
+touch 9-main.js
+touch 10-main.js
+# touch 11-main.js
+# touch 12-main.js
+# touch 13-main.js
+touch 100-main.js
+# touch 101-main.js
+# touch 102-main.js
