@@ -21,6 +21,7 @@ build/
 .env.development
 .env.test
 .env.production
+package-lock*
 
 # Local npm cache directory
 .npm

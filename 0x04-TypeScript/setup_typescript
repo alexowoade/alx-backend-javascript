@@ -1,3 +1,11 @@
+#!/usr/bin/bash
+
+npm install eslint --save-dev
+
+npm install webpack webpack-cli --save-dev
+
+npm install typescript --save-dev
+
 echo '{
   "name": "typescript_dependencies",
   "version": "1.0.0",
