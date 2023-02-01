@@ -21,9 +21,6 @@ build/
 .env.development
 .env.test
 .env.production
-package*
-babel*
-.eslintrc*
 
 # Local npm cache directory
 .npm
