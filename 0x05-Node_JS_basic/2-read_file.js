@@ -14,23 +14,19 @@ function countStudents(path) {
   }
   const CSList = [];
   const SWEList = [];
-  let numberOfCsStudents = 0;
-  let numberOfSweStudents = 0;
   console.log(`Number of students: ${data.length}`);
 
   for (const line of data) {
     const tokensList = line.split(',');
     if (tokensList.slice(-1)[0] === 'CS') {
-      numberOfCsStudents += 1;
       CSList.push(tokensList[0]);
     } else if (tokensList.slice(-1)[0] === 'SWE') {
-      numberOfSweStudents += 1;
       SWEList.push(tokensList[0]);
     }
   }
 
-  console.log(`Number of students in CS: ${numberOfCsStudents}. List: ${CSList.join(', ')}`);
-  console.log(`Number of students in SWE: ${numberOfSweStudents}. List: ${SWEList.join(', ')}`);
+  console.log(`Number of students in CS: ${CSList.length}. List: ${CSList.join(', ')}`);
+  console.log(`Number of students in SWE: ${SWEList.length}. List: ${SWEList.join(', ')}`);
 }
 
 module.exports = countStudents;
