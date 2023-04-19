@@ -1,7 +1,8 @@
-const getResponseFromAPI = () => {
+function getResponseFromAPI() {
   /* eslint-disable */
-  return Promise.resolve();
-};
-
+  return new Promise((resolve, reject) => {
+    resolve();
+  });
+}
 export default getResponseFromAPI;
 
